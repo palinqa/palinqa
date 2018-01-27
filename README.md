@@ -15,3 +15,6 @@ Event types we have are: workshops, talks, lean coffee and informal networking g
 
 
 Come and join our [slack channel](https://testersbudapest.herokuapp.com/)
+
+
+
