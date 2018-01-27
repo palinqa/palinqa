@@ -17,4 +17,4 @@ __Peter Czibik (Software Developer @ RisingStack)__
 In the world of APIs making sure that we’re not breaking our clients code is the real challenge. As a fullstack software consultant working with growing microservice architectures I have to feel the pain of both the server and client work, I’d like to present a clean way to make sure everyone stays happy and things don’t break (or at least we know ahead of time if they are).
 Attendees after the talk will be familiar with the concepts of contract testing and will get to know a small library called pact that can help integrating it into their current software development workflow.
 
-#### [Slides for Contract testing](docs/whatev.md)
+##### [Slides for Contract testing](/docs/Contract_testing.pdf)
