@@ -7,7 +7,7 @@ We aim to have all kinds of topics related to testing, building a high quality p
 Event types we have are: workshops, talks, lean coffee and informal networking gatherings.
 
 ### Past events
-- [Data Profiling & Contract Testing](events/2018_january)
+- [Data Profiling & Contract Testing](/events/2018_january)
 
 
 
