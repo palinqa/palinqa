@@ -18,7 +18,7 @@ In the world of APIs making sure that we’re not breaking our clients code is t
 Attendees after the talk will be familiar with the concepts of contract testing and will get to know a small library called pact that can help integrating it into their current software development workflow.
 
 ### Slides & Notes
-##### [Introduction](/palinqa-talks/docs/Intro_to_palinQA_talks_ Data Profiling_And_Contract_Testing.pptx)
+##### [Introduction](/palinqa-talks/docs/Intro_to_palinQA_talks_ Data_Profiling_And_Contract_Testing.pptx)
 ##### [Slides for Data Profiling](/palinqa-talks/docs/Data_Profiling.pdf)
 ##### [Slides for Contract testing](/palinqa-talks/docs/Contract_testing.pdf)
 Example repository is on github: https://github.com/RisingStack/pact-example
