@@ -19,7 +19,9 @@ Attendees after the talk will be familiar with the concepts of contract testing 
 
 ### Slides & Notes
 ##### [Introduction](/palinqa-talks/docs/Intro to palinQA talks_ Data Profiling & Contract Testing.pptx)
+
 ##### [Slides for Data Profiling](/palinqa-talks/docs/Data Profiling.pdf)
+
 ##### [Slides for Contract testing](/palinqa-talks/docs/Contract_testing.pdf)
 Example repository is on github: https://github.com/RisingStack/pact-example
 Also there is a great blogpost if you want to dive deeper: https://blog.risingstack.com/consumer-driven-contract-testing-with-pact/
