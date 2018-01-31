@@ -17,4 +17,9 @@ __Peter Czibik (Software Developer @ RisingStack)__
 In the world of APIs making sure that we’re not breaking our clients code is the real challenge. As a fullstack software consultant working with growing microservice architectures I have to feel the pain of both the server and client work, I’d like to present a clean way to make sure everyone stays happy and things don’t break (or at least we know ahead of time if they are).
 Attendees after the talk will be familiar with the concepts of contract testing and will get to know a small library called pact that can help integrating it into their current software development workflow.
 
+### Slides & Notes
+##### [Introduction](/palinqa-talks/docs/Intro to palinQA talks_ Data Profiling & Contract Testing.pptx)
+##### [Slides for Data Profiling](/palinqa-talks/docs/Data Profiling.pdf)
 ##### [Slides for Contract testing](/palinqa-talks/docs/Contract_testing.pdf)
+Example repository is on github: https://github.com/RisingStack/pact-example
+Also there is a great blogpost if you want to dive deeper: https://blog.risingstack.com/consumer-driven-contract-testing-with-pact/
