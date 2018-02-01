@@ -17,7 +17,7 @@ __About Cristiana:__
 Cristiana Maria Gusanu is an Expert IT Architect at Nordea Trading Technologies, Denmark. She holds a Master’s Degree in Automation and Robotics and a PhD in Cybernetics. Cristiana has over 15 years of experience in test automation and quality assurance. Along with being actively involved in the design and creation of new testing systems, she is spending a lot of time helping organizations to shift their mentality towards a new, ‘out of the box’ and more quality oriented mind-set. She regularly holds public talks, tutorial classes and workshops on topics covering Quality Assurance as well as Innovation and Creative Thinking.
 
 
-###How to awake a motivation in Software Tester to love his job? And how to stimulate this motivation over the years? How to Motivate Your Software Tester?
+### How to awake a motivation in Software Tester to love his job? And how to stimulate this motivation over the years? How to Motivate Your Software Tester?
 __Petra Boušková (Test Coordinator @ TESENA S.R.O.)__
 
 On a global scale this is a part of bigger problem which many companies are facing today, despite of its size or the field of business. I was systematic and persistent and have discussed this issue with Software Testers in various testing roles across multiple fields. I came up with methods of motivation which can be applied in any company’s environment. Methods which can help to boost energy in a team and lead to more proactive work approach. Methods which can provide easier and smoother process of hiring new Software Testers.
