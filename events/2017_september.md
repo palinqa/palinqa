@@ -14,4 +14,4 @@ __About Gáspár:__
 Gáspár Nagy is the creator and main contributor of SpecFlow, the most widely used ATDD/BDD framework for .NET.
 Gáspár is an independent coach, trainer and test automation expert focusing on helping teams implementing BDD and SpecFlow through his company, called Spec Solutions. He has more than 15 years of experience in enterprise software development as he worked as an architect and agile developer coach.
 
-##### [Slides](/palinqa-talks/docs/20170928-palinqa-examplemapping-gasparnagy-170928213228.pdf)
+##### [Slides](/docs/20170928-palinqa-examplemapping-gasparnagy-170928213228.pdf)
