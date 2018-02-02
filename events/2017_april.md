@@ -14,6 +14,6 @@ Emanuil Slavov tells the story of how Komfo achieved 60x faster tests. Along the
 Having automated tests run that fast completely changes the software development game. There is no need to wait for the nightly tests to complete, and there are no more smoke tests. You can run all tests, get fast feedback, and release instantly without falling behind. In the near future, this will be standard practice, much like infrastructure as code or continuous integration are today. In order for a company to stay competitive, all existing automated tests—static code analysis, unit tests, API, and UI—should complete in less than five minutes after every code, database, or infrastructure change.
 
 ### Slides & Notes
-#### [Slides for Deliberate Testing](/palinqa/docs/Deliberate_Testing.pdf)
-#### [Slides for Need for Speed](/palinqa/docs/VelocityConf_AMS_2016_Need_For_Speed.pdf)
+#### [Slides for Deliberate Testing](/docs/Deliberate_Testing.pdf)
+#### [Slides for Need for Speed](/docs/VelocityConf_AMS_2016_Need_For_Speed.pdf)
 The tool Emanuil mentioned which is used to simulate external dependencies: https://github.com/emanuil/nagual
