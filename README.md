@@ -17,9 +17,6 @@ Come and join our [slack channel](https://testersbudapest.herokuapp.com/)
 - [Introduction to Cynefin](/events/2017_october.md)
 - [A Planning Meeting You’ll Love](/events/2017_september.md)
 - [Staying Ahead of the Curve](/events/2017_may.md)
-
-
-
-
-
+- [Bonus CRAFT 2017 Edition with Maaret Pyhäjärvi](/events/2017_april_bonus.md)
+- [CRAFT 2017 Edition](/events/2017_april.md)
 
