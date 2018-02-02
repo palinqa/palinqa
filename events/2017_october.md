@@ -16,4 +16,4 @@ Lina Zubyte (QA Engineer @ Secret Sauce Partners)
 __About Lina:__
 As the lone tester, Lina works closely with Development, Product and R&D teams on creating data driver merchandising solutions to fashion retailers globally. Her work tasks include testing of visual similarity engine and fit solution products. She loves analyzing data and getting extra information using analytics/monitoring tools.
 
-##### [Slides](/palinqa-talks/docs/Introduction_to_Cynefin.pptx)
+##### [Slides](/docs/Introduction_to_Cynefin.pptx)
