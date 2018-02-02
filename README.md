@@ -19,4 +19,6 @@ Come and join our [slack channel](https://testersbudapest.herokuapp.com/)
 - [Staying Ahead of the Curve](/events/2017_may.md)
 - [Bonus CRAFT 2017 Edition with Maaret Pyhäjärvi](/events/2017_april_bonus.md)
 - [CRAFT 2017 Edition](/events/2017_april.md)
+- [TestBash taste under the hood of the Dojo](/events/2017_march.md)
+- [Development with Agile Testing and How to Improve as a Tester](/events/2017_february.md)
 
