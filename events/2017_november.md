@@ -32,6 +32,6 @@ __About Petra:__
 Petra is a member of tesena’s delivery team in the Czech republic. This job gives her a great opportunity to grow and support a mission of this company – to be the number one provider of Testing Services. Petra‘s career path started in automotive industry, which gave her strong basis in automation, specification and execution. Simultaneously she was participating on development of Automobile Suspension system testing strategy. Her passion is to enthuse, excite and inspire people to develop their skills and careers. Besides being active in software testing, Petra works as a professional Soft Skills Trainer leading intern and extern workshops across Europe. Her most successful and favourite workshops are focused on ‘Presentation’, ‘Public Speaking’ and ‘Motivation’.
 
 ### Slides & Notes
-##### [Slides for Inside Innovation](/palinqa/docs/Inside_innovation_talk_Nordea.pptx)
-##### [Slides for Motivate your Testers](/palinqa/docs/Petra_Bouskova-Build_a_successful_team-Motivate_your_software_Tester.pdf)
+##### [Slides for Inside Innovation](/docs/Inside_innovation_talk_Nordea.pptx)
+##### [Slides for Motivate your Testers](/docs/Petra_Bouskova-Build_a_successful_team-Motivate_your_software_Tester.pdf)
 Petra has delivered the same talk at Selenium Conf in Berlin and here is the recording: https://goo.gl/sTbfAY
