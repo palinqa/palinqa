@@ -19,6 +19,6 @@ ___[László Halasi](https://hu.linkedin.com/in/halasi) (Scrum Master and Tester
 
 The maturity of a test team has a great impact on the effeciveness and the happiness of the individuals. We will talk about basic principles of leadership and advices which could help You - present or future Test Leads - to serve your team better.
 
-##### [Slides for Tri-Layer Testing Framework](/docs/Tri-Layer Testing Framework - palinQA.pptx)
+##### [Slides for Tri-Layer Testing Framework](/docs/Tri-Layer_Testing_Framework_-_palinQA.pptx)
 
 ##### [Slides for the Non-Technical Role of a Test Lead Inside a Team](/docs/10ElementsOfLeadership_Laszlo_Halasi_PalinQA.pdf)
