@@ -1,8 +1,4 @@
-# palinQA workshops: Writing Good BDD Scenarios
-
-## What we'll do
-
-Join us for the last this year's event and gain some more knowledge about BDD! This workshop-like event does not require to have a laptop with you and will be held in English. Liferay is kindly hosting us.
+# Writing Good BDD Scenarios
 
 ### Writing Good BDD Scenarios
 
@@ -12,10 +8,9 @@ In this meetup you can learn the core concept of BDD and how to write expressive
 
 We’ll be using Gherkin, the syntax used by Cucumber and SpecFlow but you won’t need a computer.
 
+__Facilitator:__ 
+Gáspár Nagy
+
 ___About Gáspár:___
-
 Gáspár Nagy is the creator and main contributor of SpecFlow, the most widely used ATDD/BDD framework for .NET.
-
 Gáspár is an independent coach, trainer and test automation expert focusing on helping teams implementing BDD and SpecFlow through his company, called Spec Solutions. He has more than 15 years of experience in enterprise software development as he worked as an architect and agile developer coach.
-
-He shares useful BDD and test automation related tips on his [blog](http://gasparnagy.com) and on Twitter [@gasparnagy](https://twitter.com/gasparnagy). He edits a [monthly newsletter](http://bddaddict.com) about interesting articles, videos and news related to BDD, SpecFlow and Cucumber.
