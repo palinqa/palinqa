@@ -11,6 +11,6 @@ We’ll be using Gherkin, the syntax used by Cucumber and SpecFlow but you won�
 __Facilitator:__ 
 Gáspár Nagy
 
-___About Gáspár:___
+__About Gáspár:__
 Gáspár Nagy is the creator and main contributor of SpecFlow, the most widely used ATDD/BDD framework for .NET.
 Gáspár is an independent coach, trainer and test automation expert focusing on helping teams implementing BDD and SpecFlow through his company, called Spec Solutions. He has more than 15 years of experience in enterprise software development as he worked as an architect and agile developer coach.
