@@ -8,6 +8,7 @@ However rigorously we apply these methods, entire classes of tests aren't being 
 
 ### Need for Speed: Accelerate automation tests from three hours to three minutes
 __Emanuil Slavov (Head of QA @ Komfo)__
+
 All automated tests (other than unit) are too slow and unreliable for the fast development pace every company craves, and there are many external dependencies and factors outside of your control, so when these tests fail, it’s hard to pinpoint the exact reason why.
 Komfo had automated tests running for more than three hours every night. The execution time just kept growing unrestricted, and the tests were getting more unstable and unusable due to a feedback loop. At one point, the continuous integration build for the tests was red for more than 20 days in a row. Regression bugs started to appear undetected in production. The Komfo team decided to put an end to this madness—after considerable effort and dedication, the same tests currently run for only three minutes.
 Emanuil Slavov tells the story of how Komfo achieved 60x faster tests. Along the way, Emanuil touches on topics such as test automation framework design, hermetic servers, optimizing test environments for speed, architecture for testability, DevOps collaboration, virtual containers, reliable tests when depending on services outside of your control, and the joys and pitfalls of parallel execution.
