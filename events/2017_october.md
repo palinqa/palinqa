@@ -1,6 +1,6 @@
 ## Introduction to Cynefin
 
-This workshop is not only for testers: a lot of professionals working in Agile (and not only) can benefit from it. It does not require to have a laptop with you. The event will be hosted by Secret Sauce Partners.
+This workshop is not only for testers: a lot of professionals working in Agile (and not only) can benefit from it. It does not require to have a laptop with you.
 
 Cynefin has been in the center of attention in a tech world recently. You may have heard fragments about it: sense making, complexity theory, thinking patterns, etc. However, what is it actually about?
 
