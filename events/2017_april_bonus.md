@@ -14,4 +14,5 @@ The ideas we discuss are:
 
 ### Notes
 https://leanpub.com/mobprogrammingguidebook
+
 https://drive.google.com/file/d/0B07e3JZGe_haVmRfOUFDLWRMcVU/view
