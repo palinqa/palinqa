@@ -1,4 +1,4 @@
-# Writing Good BDD Scenarios
+## Writing Good BDD Scenarios
 
 Behavior Driven Development is an agile development technique that improves collaboration between technical and nontechnical members of the team, by exploring the problem using examples. These examples then get turned into executable specifications, often called ‘scenarios’. The scenarios should be easy to read by all team members, but writing them expressively is harder than it looks!
 
