@@ -1,7 +1,7 @@
 ## Mob Testing (CRAFT Edition)
 
 ### Mob Exploratory Testing Workshop
-___[Llewellyn Falco](http://llewellynfalco.blogspot.hu/) - Agile Coach, Creator of ApprovalTests, Legacy Code Expert___
+__Llewellyn Falco (Agile Coach, Creator of ApprovalTests, Legacy Code Expert)__
 Exploratory testing is a learning­ intensive style of testing. It’s time to amp up our skills by learning from one another, and learn in a mob. With mob testing, the whole group works on the same thing, at the same time, in the same space, and at the same computer. With a specific communication style called Strong­style pairing, it connects the group of brilliant minds on a shared experience. Facilitated by an expert, it makes a great mechanism for building habits and transferring skills over passing knowledge.
 
 In this workshop, we will work on:
@@ -14,3 +14,8 @@ Join in to experience personally how exploratory testing is different from tradi
 #### Why should you join this workshop?
 * Improve collaboration skills in paired and grouped hands ­on work
 * Improve testing habits and skills through immersing into actual testing facilitated by an expert.
+
+### Notes
+Mob Programming Guidebook
+This is the pocket guide to help you get started Mob Programming successfully, and avoid the common pitfalls and misunderstandings.
+https://leanpub.com/mobprogrammingguidebook
