@@ -1,4 +1,4 @@
-# Effectiveness in Test Automation and Team Leading
+## Effectiveness in Test Automation and Team Leading
 
 ### Tri-Layer Testing Framework
 __Péter Földházi (Lead Software Test Automation Engineer @ EPAM Systems)__
