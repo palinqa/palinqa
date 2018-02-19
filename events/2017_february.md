@@ -6,9 +6,13 @@ __István Novák (Chief Consultant @ SoftwArt Ltd.)__
 Istvan is going to talk about the challenges of QA/Testing in Modern Development. In his 5 tips on how to plan your software product development with agile testing in mind you will learn more about:
 
 • Levels of testing — Agile testing and QA
+
 • Developing from specification
+
 • Transforming a specification — Developing from backlog
+
 • A few things about testable user stories
+
 • Efficient automatic testing
 
 ### How to Learn Testing?
