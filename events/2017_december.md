@@ -25,6 +25,6 @@ __About Erik:__
 Erik fell into testing 5 years ago after finishing sociology studies, worked with consumer finance software in the beginning, now works at TOPdesk. He is interested in understanding systems and the spot where software meets people.
 
 ### Slides & Notes
-##### [Slides](/docs/palinQA_talks_ Automation_with_Protractor_and_Sharing_Testing_Stories.pdf)
+##### [Slides](/docs/palinQA_talks_Automation_with_Protractor_and_Sharing_Testing_Stories.pdf)
 
 Official site of Protractor: http://www.protractortest.org
