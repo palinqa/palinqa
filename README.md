@@ -11,7 +11,7 @@ Come and join our [slack channel](https://testersbudapest.herokuapp.com/)
 
 
 ### Past events
-- [Accessibility & API Testing](/events/2018_februray.md)
+- [Accessibility & API Testing](/events/2018_february.md)
 - [Data Profiling & Contract Testing](/events/2018_january.md)
 - [Automation with Protractor and Sharing Testing Stories](/events/2017_december.md)
 - [Inside Innovation and Motivation of Testers](/events/2017_november.md)
