@@ -11,6 +11,7 @@ Come and join our [slack channel](https://testersbudapest.herokuapp.com/)
 
 
 ### Past events
+- [Reality Check: The role of manual testing in DevOps](/events/2018_march.md)
 - [Accessibility & API Testing](/events/2018_february.md)
 - [Data Profiling & Contract Testing](/events/2018_january.md)
 - [Automation with Protractor and Sharing Testing Stories](/events/2017_december.md)
