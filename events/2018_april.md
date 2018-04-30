@@ -18,5 +18,5 @@ It is especially true in case of smaller companies, where usually one tester has
 
 ### Slides
 ##### [Introduction](/docs/palinQA_talks_Improving_Testing_Skillset.pptx)
-##### [Effective Test Automation](/docs/palinQA-EffectiveTestAutomation.pptx)
-##### [Growing Up As A Tester](/docs/Growing-up-as-a-tester-LillaKovács.pptx)
+##### [Slides for Effective Test Automation](/docs/palinQA-EffectiveTestAutomation.pptx)
+##### [Slides for Growing Up As A Tester](/docs/Growing-up-as-a-tester-LillaKovács.pptx)
