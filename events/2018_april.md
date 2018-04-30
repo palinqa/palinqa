@@ -17,6 +17,6 @@ There are many layers of this profession from documentation writing to project m
 It is especially true in case of smaller companies, where usually one tester has to do every subtask of the process. As one of these people, I would like to share my story of growing as a tester, and through my story maybe we understand our role a bit a better.
 
 ### Slides
-##### [Introduction](/docs/palinQA talks_ Improving_Testing_Skillset.pptx)
+##### [Introduction](/docs/palinQA_talks_Improving_Testing_Skillset.pptx)
 ##### [Effective Test Automation](/docs/palinQA-EffectiveTestAutomation.pptx)
 ##### [Growing Up As A Tester](/docs/Growing-up-as-a-tester-LillaKovács.pptx)
