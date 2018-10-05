@@ -11,6 +11,8 @@ Come and join our [slack channel](https://testersbudapest.herokuapp.com/)
 
 
 ### Past events
+- [Introduction to REST Assured](/events/2018_sept.md)
+- [Impact in Testing & Career Panel Discussion - CRAFT 2018 Edition](/events/2018_may.md)
 - [Improving Testing Skillset](/events/2018_april.md)
 - [Reality Check: The role of manual testing in DevOps](/events/2018_march.md)
 - [Accessibility & API Testing](/events/2018_february.md)
