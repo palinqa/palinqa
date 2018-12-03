@@ -11,6 +11,7 @@ Come and join our [slack channel](https://testersbudapest.herokuapp.com/)
 
 
 ### Past events
+- [Property-Based Testing in Scala & Unit Testing a Js App](/events/2018_nov.md)
 - [Selenium Tests, the Object Oriented Way](/events/2018_oct.md)
 - [Introduction to REST Assured](/events/2018_sept.md)
 - [Impact in Testing & Career Panel Discussion - CRAFT 2018 Edition](/events/2018_may.md)
