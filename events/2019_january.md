@@ -13,5 +13,5 @@ In 2016, as part of a survey run by Oracle regarding tech trends, over 80% of bu
 Working with a chatbot as a QA, I felt like the traditional methods of testing do not apply as well in this new area. It made me do a lot of research, experiment, and, even build my own chatbot to explore the topic more. In this session, I will share my learnings on chatbots and discuss these questions: What should we think about when we build chatbots? How can we as QAs help to ensure the quality of a chatbot? What in the end is a good quality chatbot? Join me in my talk and get ready for the future of chatbots.
 
 ### Slides & Notes
-#### [Slides for AI in Software Testing – The Best & Worst Uses](/docs/)
-#### [Slides for It's Tricky: Chatbots & QA](/docs/)
+#### [Slides for AI in Software Testing – The Best & Worst Uses](/docs/Artificial_Intelligence.pdf)
+#### [Slides for It's Tricky: Chatbots & QA](/docs/It's_Tricky_Chatbots_&_QA.pdf)
