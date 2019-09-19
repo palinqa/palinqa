@@ -9,6 +9,8 @@ Event types we have are: workshops, talks, lean coffee and informal networking g
 
 Come and join our [slack channel](https://testersbudapest.herokuapp.com/)
 
+[GitHub Site](https://palinqa.github.io/palinqa/)
+
 
 ### Past events
 - [Accessibility & Agility for QA](/events/2019_september.md)
