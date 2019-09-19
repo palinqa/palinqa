@@ -11,6 +11,7 @@ Come and join our [slack channel](https://testersbudapest.herokuapp.com/)
 
 
 ### Past events
+- [Accessibility & Agility for QA](/events/2019_september.md)
 - [Testing in Production & From Tester to Support Ops](/events/2019_february.md)
 - [Testing (with) AI](/events/2019_january.md)
 - [Property-Based Testing in Scala & Unit Testing a Js App](/events/2018_nov.md)
